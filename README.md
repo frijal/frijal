@@ -166,12 +166,14 @@ Terima kasih untuk semua yang telah berkontribusi pada halaman ini. 🙏
 
 ---
 
+<p align="center"><a href="#top">(kembali ke awal)</a></p>
+
 <details>
 <summary>⚡ Klik untuk Status Teknis ⚙️</summary>
 
 ### 📊 Status:
 
-[![License: Unlicense](https://img.shields.io/badge/License-Unlicense-blue?logo=open-source-initiative&logoColor=white)](#Unlicense)
+[![License: CC0](https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 [![Public Domain](https://img.shields.io/badge/Public%20Domain-Yes-orange?logo=creative-commons&logoColor=white)](#readme)
 [![Free 100%](https://img.shields.io/badge/Free-100%25-brightgreen?logo=opensourceinitiative&logoColor=white)](#readme)
 [![Open Source](https://img.shields.io/badge/Open%20Source-Yes-blue?logo=github&logoColor=white)](#readme)
@@ -188,7 +190,6 @@ Terima kasih untuk semua yang telah berkontribusi pada halaman ini. 🙏
 [![🔄 Proses ArtikelX](https://github.com/frijal/LayarKosong/actions/workflows/proses-artikelx.yml/badge.svg?branch=main)](https://github.com/frijal/LayarKosong/actions/workflows/proses-artikelx.yml)
 [![☢️ Build and Generate Site Files](https://github.com/frijal/LayarKosong/actions/workflows/generate-json-xml.yml/badge.svg)](https://github.com/frijal/LayarKosong/actions/workflows/generate-json-xml.yml)
 [![⚠️ Copy ke Branch Site Cloudflare](https://github.com/frijal/LayarKosong/actions/workflows/copybranch.yml/badge.svg?branch=main)](https://github.com/frijal/LayarKosong/actions/workflows/copybranch.yml)
-[![IndexNow Daily Submit](https://github.com/frijal/LayarKosong/actions/workflows/indexnow.yml/badge.svg)](https://github.com/frijal/LayarKosong/actions/workflows/indexnow.yml)
 [![Ping Feeds & Sitemap](https://github.com/frijal/LayarKosong/actions/workflows/rssping.yml/badge.svg)](https://github.com/frijal/LayarKosong/actions/workflows/rssping.yml)
 [![🔆 Pengecekan & Laporan Konten Harian](https://github.com/frijal/LayarKosong/actions/workflows/hapushitung.yml/badge.svg)](https://github.com/frijal/LayarKosong/actions/workflows/hapushitung.yml)
 
@@ -207,6 +208,7 @@ Terima kasih untuk semua yang telah berkontribusi pada halaman ini. 🙏
 [![npm](https://img.shields.io/badge/npm-Yes-CB3837?logo=npm&logoColor=white)](#readme)
 [![pnpm](https://img.shields.io/badge/pnpm-Yes-F69220?logo=pnpm&logoColor=white)](#readme)
 [![pipx](https://img.shields.io/badge/pipx-Yes-3776AB?logo=python&logoColor=white)](#readme)
+[![Perl](https://img.shields.io/badge/Perl-Yes-808080?logo=perl&logoColor=white)](#readme)
 
 **Format Data:**
 
