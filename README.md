@@ -1,17 +1,3 @@
-## 📊 GitHub Stat
-</p>    
-<a href="https://community.vaunt.dev/board/frijal">
-        <img src="https://api.vaunt.dev/v1/github/entities/frijal/contributions?format=svg" width="500" title="Includes public contributions"/>
-    </a>
-</p>
-
-## 🥇 Achievements
-<p>
-<a href="https://community.vaunt.dev/board/frijal">
-  <img src="https://api.vaunt.dev/v1/github/entities/frijal/achievements?format=svg&limit=12&raw=true" width="500" />
-  </a>  
-</p>
-
 # 🚀 Panduan Membuat Static Site dengan Layar Kosong
 
 Selamat datang! Panduan ini akan membantumu membangun situs statis yang super cepat dan ringan menggunakan *repository* **Layar Kosong**.
