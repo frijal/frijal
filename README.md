@@ -1,3 +1,12 @@
+<p>
+  <a href="https://vaunt.dev">
+    <img
+      src="https://api.vaunt.dev/v1/github/entities/frijal/contributions?format=svg"
+      width="350"
+      title="Includes public contributions"
+    />
+  </a>
+</p>
 # 🚀 Panduan Membuat Static Site dengan Layar Kosong
 
 Selamat datang! Panduan ini akan membantumu membangun situs statis yang super cepat dan ringan menggunakan *repository* **Layar Kosong**.
