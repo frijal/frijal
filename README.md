@@ -7,6 +7,7 @@
     />
   </a>
 </p>
+
 # 🚀 Panduan Membuat Static Site dengan Layar Kosong
 
 Selamat datang! Panduan ini akan membantumu membangun situs statis yang super cepat dan ringan menggunakan *repository* **Layar Kosong**.
