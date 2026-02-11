@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=frijal&label=visited+repository)
+![](https://komarev.com/ghpvc/?username=frijal&label=visited+repository:)
 
 # 🚀 Panduan Membuat Static Site dengan Layar Kosong
 
