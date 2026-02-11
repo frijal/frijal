@@ -4,7 +4,7 @@
 
 Selamat datang! Panduan ini akan membantumu membangun situs statis yang super cepat, ringan, dan **otomatis ter-deploy ke Cloudflare Pages** menggunakan *repository* **Layar Kosong**.
 
-Konsepnya: Kamu cukup fokus menulis di GitHub, dan biarkan **GitHub Actions + Cloudflare Wrangler** yang bekerja mengirimkan artikelmu ke internet secara instan.
+Konsepnya: Kamu cukup fokus menulis di GitHub, dan biarkan **GitHub Actions + Cloudflare Wrangler** yang bekerja mengirimkan artikelmu ke internet online secara instan.
 
 **Otomatisasi:**
 
