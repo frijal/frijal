@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=frijal&label=visited+repository)
+
 # 🚀 Panduan Membuat Static Site dengan Layar Kosong
 
 Selamat datang! Panduan ini akan membantumu membangun situs statis yang super cepat, ringan, dan **otomatis ter-deploy ke Cloudflare Pages** menggunakan *repository* **Layar Kosong**.
