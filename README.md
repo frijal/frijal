@@ -260,7 +260,7 @@ Edit dan sesuaikan informasi di file-file berikut yang ada di halaman utama (*ro
 - [ ] Ganti semua URL dari `dalam.web.id` ke domain kamu.
 - [ ] Update informasi kontak dan metadata.
 - [ ] Sesuaikan warna, logo, dan *branding*.
-- [ ] Test semua link internal.
+- [ ] Periksa semua link internal.
 - [ ] Verifikasi `sitemap` dan `robots.txt`.
 
 ---
