@@ -1,9 +1,5 @@
 [![Google Preferred Source](https://img.shields.io/badge/Google-Preferred_Source-4285F4?logo=google&logoColor=white)](https://www.google.com/preferences/source?q=dalam.web.id)
 
-[![Google Preferred Source](https://img.shields.io/badge/Google-Preferred_Source-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.google.com/preferences/source?q=dalam.web.id)
-
-[![Google Preferred Source](https://img.shields.io/badge/Google-Add_us_as_a_preferred_source-4285F4?logo=google&logoColor=white)](https://www.google.com/preferences/source?q=dalam.web.id)
-
 # 🚀 Panduan Membuat Static Site dengan Layar Kosong
 
 Selamat datang! Panduan ini akan membantumu membangun situs statis yang super cepat, ringan, dan **otomatis ter-deploy ke Cloudflare Pages** menggunakan *repository* **Layar Kosong**.
