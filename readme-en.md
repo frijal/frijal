@@ -6,7 +6,7 @@
 
 Welcome! This guide explains how to build a fast, lightweight static website that is **automatically deployed to Cloudflare Pages** using the **Layar Kosong** repository.
 
-[![Process](thumbnail.webp)](https://github.com/frijal/LayarKosong/fork)
+[![Process](https://raw.githubusercontent.com/frijal/LayarKosong/main/thumbnail.webp)](https://github.com/frijal/LayarKosong/fork)
 
 The concept is simple: focus on writing content and committing it to GitHub. The entire build process, asset generation, article processing, search-index synchronization, and deployment are handled automatically by **GitHub Actions + Bun.js + Cloudflare Wrangler**.
 
