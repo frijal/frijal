@@ -6,7 +6,7 @@
 
 Selamat datang! Panduan ini menjelaskan cara membangun situs statis yang cepat, ringan, dan **ter-deploy secara otomatis ke Cloudflare Pages** menggunakan repository **Layar Kosong**.
 
-[![Proses](thumbnail.webp)](https://github.com/frijal/LayarKosong/fork)
+[![Proses](https://raw.githubusercontent.com/frijal/LayarKosong/main/thumbnail.webp)](https://github.com/frijal/LayarKosong/fork)
 
 Konsepnya sederhana: kamu cukup fokus menulis dan melakukan commit ke GitHub. Seluruh proses build, generate aset, pemrosesan artikel, sinkronisasi indeks pencarian, hingga deployment ditangani otomatis oleh **GitHub Actions + Bun.js + Cloudflare Wrangler**.
 
